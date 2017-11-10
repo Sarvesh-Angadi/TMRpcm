@@ -46,7 +46,7 @@ Blog: https://tmrh20.blogspot.com/
    See https://github.com/TMRh20/TMRpcm/wiki for info on usage
 
    /* Use the SDFAT library from http://code.google.com/p/sdfatlib/            */
-//#define SDFAT
+#define SDFAT
 
    /* MULTI Track mode currently allows playback of 2 tracks at once          */
 //#define ENABLE_MULTI  //Using separate pins on a single 16-bit timer
